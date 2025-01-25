@@ -1,0 +1,77 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-image: url(/Bobbyimages/blood_stains_by_person_in_the_dark_d1t7cs8-fullview.jpg);
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    margin: 20px;
+  }
+  
+  .bobby-image {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  #text {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  #explore {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #explore:hover {
+    background-color: #ff4d4d;
+  }
+
+  .gif {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  #reveal {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #reveal:hover {
+    background-color: #ff4d4d;
+  }
+
+
+  .scarrybob {
+
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 90%;
+
+  }
+
+  .footer {
+
+    position: absolute; 
+    bottom: 1; 
+    left: 0; 
+    z-index: 1;
+
+}

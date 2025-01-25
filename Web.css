@@ -1,0 +1,43 @@
+body {
+    background-image: url('/Webimages/stars.jpg'); 
+    background-color: teal;
+    background-attachment: fixed;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.container {
+
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.footer {
+
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+
+}
+
+.mainpage {
+
+    
+    text-align: center;
+    cursor: pointer;
+	display: inline-flex;
+	font-family: "Times New Roman";
+    color: black;
+	border-top-color: var(--color-cod-gray);
+    border-left-color: var(--color-cod-gray);
+    background-color: lightgray;
+
+
+}

@@ -1,0 +1,33 @@
+body {
+    background-image: url("/Aeroimages/created-my-own-generic-frutiger-aero-wallpaper-to-use-for-v0-5fb4uuthj49c1.png"), url("/images/");
+    background-repeat: no-repeat;
+  }
+
+.CenteredH1 {
+
+    backdrop-filter: blur(10px) saturate(70%);
+    font-size: 75px;
+    text-align: center;
+    font-family: Sans-serif;
+    width: fit-content;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
+
+}
+
+.pCenteredIntro {
+
+    font-size: 35px;
+    text-align: center;
+    font-family: Sans-serif;
+    backdrop-filter: blur(10px) saturate(70%);
+    width: fit-content;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 3-px;
+
+
+
+}

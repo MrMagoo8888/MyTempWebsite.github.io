@@ -1,0 +1,23 @@
+body {
+    background-image: url('/Webimages/stars.jpg'); /* Replace with your desired space background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
